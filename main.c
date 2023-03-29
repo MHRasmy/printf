@@ -1,6 +1,16 @@
 #include <stdarg.h>
 #include <unistd.h>
-
+/**
+ * _printf - printing the charachters and according to the
+ *  specifier that exists, prints the value of the variable
+ * 
+ * @*format: the first argument and the sequance that will be
+ * checked for specifiers
+ * 
+ * @...: unspecified number of argument that will be checked
+ * 
+ * return: number of charachers printed
+ */
 int _printf(const char *format, ...)
 {
 	va_list args;
