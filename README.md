@@ -1,1 +1,1 @@
-Implemeting printf function from scratch
+Editing fun descriptions
