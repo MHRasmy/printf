@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "bash commit"
+git commit -m "main.h\ncase c in main.c"
 git push
